@@ -9,6 +9,7 @@ Miembros del equipo:
   </ul>
 
 EJERCICIO 2:
+
 f. PR branch branch-jere -> branch branch-release2: https://github.com/Kreptiyo/ISW_TP_GRUPO6_2021/pull/1
 
 g. Para llevar esto a cabo nos posicionamos en la rama main y realizamos un merge con la rama branch-release1 para luego insertar los cambios mediante un push
