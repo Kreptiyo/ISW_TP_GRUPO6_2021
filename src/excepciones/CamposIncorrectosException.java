@@ -9,8 +9,9 @@ public class CamposIncorrectosException extends Exception{
 	private List<String> camposErroneos;
 	
 	public CamposIncorrectosException(String nc, List<String> camposErroneos) {
-		super(" Los siguientes campos son incorrectos: " + "\n" 
-				+nc +"\n"+ "Por favor, reingrese los mismos.");
+		super(" Los siguientes campos no son correctos: " + "\n" 
+				+nc +"\n"+ "Por favor, reingrese los mismos.
+			");
 		this.nombreCampo = nc;
 		this.camposErroneos = camposErroneos;
 	}
