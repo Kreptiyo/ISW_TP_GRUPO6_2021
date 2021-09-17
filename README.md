@@ -30,5 +30,6 @@ a. En el README pondríamos información esencial para el proyecto, como ser:
 </ul>
 
 b. A la persona que realize el PR le pediriamos los motivos por el cual quiere hacer los cambios y que en un comentario aparte nos detalle los cambios realizados.
+
 GitHub para ayudarnos con esto nos ofrece un formulario para especificar los detalles de los cambios a realizar y tambien dispone de labels que son etiquetas que se pueden agregar con el fin de tener una mejor organizacion (Bug, question, enhancement, wontfix, etc)
 
