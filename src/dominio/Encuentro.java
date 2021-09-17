@@ -16,7 +16,7 @@ public class Encuentro
 	public Encuentro()
 	{
 		super();
-		this.id = -1;
+		this.id = -2;
 	}
 	
 	public Integer getId() {
