@@ -1,10 +1,12 @@
 ISW TP1 - GRUPO 6
 
 Miembros del equipo:
--Mateo Mahieu
--Jeremias Molina
--Maximiliano Pinto
--Ezequiel Vianco
+<ul>
+<li>Mateo Mahieu</li>
+<li>Jeremias Molina</li>
+<li>Maximiliano Pinto</li>
+  <li>Ezequiel Vianco</li>
+  </ul>
 
 EJERCICIO 2:
 f. PR branch branch-jere -> branch branch-release2: https://github.com/Kreptiyo/ISW_TP_GRUPO6_2021/pull/1
