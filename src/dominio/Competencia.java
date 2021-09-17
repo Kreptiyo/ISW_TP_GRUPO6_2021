@@ -24,6 +24,7 @@ public class Competencia
 	private LocalTime hora_baja_logica;
 	private List<Lugar_De_Realizacion> lugares_de_realizacion;
 	private List<Disponibilidad> disponibilidades;
+	private String string_de_prueba;
 	
 	
 	public enum Estado_Competencia 
