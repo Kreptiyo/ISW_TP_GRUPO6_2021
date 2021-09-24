@@ -33,3 +33,4 @@ b. A la persona que realize el PR le pediriamos los motivos por el cual quiere h
 
 GitHub para ayudarnos con esto nos ofrece un formulario para especificar los detalles de los cambios a realizar y tambien dispone de labels que son etiquetas que se pueden agregar con el fin de tener una mejor organizacion (Bug, question, enhancement, wontfix, etc)
 
+24/09/2021: En base a lo explicado en la clase se procedio a añadir una release sobre la rama main.
