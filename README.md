@@ -38,24 +38,25 @@ GitHub para ayudarnos con esto nos ofrece un formulario para especificar los det
 ---------------------------------------------------------------------------------------------------------
 
 02/11/2021
-
+<ul>
 Comandos que utilizamos en orden para la correcion del TP 1:
-git branch develop
-git checkout develop
-git add .
-git push --set-upstream origin develop
-git branch feature/nueva_funcionalidad
-git checkout feature/nueva_funcionalidad
---HICIMOS CAMBIOS EN EL README--
-git add .
-git commit -m "Se listaron los pasos realizados en el readme para la correccion del TP 1"
-git push --set-upstream origin feature/nueva_funcionalidad
-En la aplicacion web de github realizamos un pull request a develop con los cambios de feature/nueva_funcionalidad
-Aceptamos el pull request
-git checkout develop
-git branch release/1.0.0
-git checkout release/1.0.0
-git add .
-git push --set-upstream origin release/1.0.0
-En la aplicacion web de github realizamos un pull request a main con los cambios de release/1.0.0
-Aceptamos el pull request
+<li>git branch develop</li>
+<li>git checkout develop</li>
+<li>git add .</li>
+<li>git push --set-upstream origin develop</li>
+<li>git branch feature/nueva_funcionalidad</li>
+<li>git checkout feature/nueva_funcionalidad</li>
+<li>--HICIMOS CAMBIOS EN EL README--</li>
+<li>git add .</li>
+<li>git commit -m "Se listaron los pasos realizados en el readme para la correccion del TP 1"</li>
+<li>git push --set-upstream origin feature/nueva_funcionalidad</li>
+<li>En la aplicacion web de github realizamos un pull request a develop con los cambios de feature/nueva_funcionalidad</li>
+<li>Aceptamos el pull request</li>
+<li>git checkout develop</li>
+<li>git branch release/1.0.0</li>
+<li>git checkout release/1.0.0</li>
+<li>git add .</li>
+<li>git push --set-upstream origin release/1.0.0</li>
+<li>En la aplicacion web de github realizamos un pull request a main con los cambios de release/1.0.0</li>
+<li>Aceptamos el pull request</li>
+</ul>
