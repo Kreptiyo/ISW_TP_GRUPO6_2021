@@ -34,3 +34,28 @@ b. A la persona que realize el PR le pediriamos los motivos por el cual quiere h
 GitHub para ayudarnos con esto nos ofrece un formulario para especificar los detalles de los cambios a realizar y tambien dispone de labels que son etiquetas que se pueden agregar con el fin de tener una mejor organizacion (Bug, question, enhancement, wontfix, etc)
 
 24/09/2021: En base a lo explicado en la clase se procedio a añadir una release sobre la rama main.
+
+---------------------------------------------------------------------------------------------------------
+
+02/11/2021
+
+Comandos que utilizamos en orden para la correcion del TP 1:
+git branch develop
+git checkout develop
+git add .
+git push --set-upstream origin develop
+git branch feature/nueva_funcionalidad
+git checkout feature/nueva_funcionalidad
+--HICIMOS CAMBIOS EN EL README--
+git add .
+git commit -m "Se listaron los pasos realizados en el readme para la correccion del TP 1"
+git push --set-upstream origin feature/nueva_funcionalidad
+En la aplicacion web de github realizamos un pull request a develop con los cambios de feature/nueva_funcionalidad
+Aceptamos el pull request
+git checkout develop
+git branch release/1.0.0
+git checkout release/1.0.0
+git add .
+git push --set-upstream origin release/1.0.0
+En la aplicacion web de github realizamos un pull request a main con los cambios de release/1.0.0
+Aceptamos el pull request
